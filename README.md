@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Sanso's Github !](https://github-readme-stats.vercel.app/api?username=S4nso&show_icons=true&theme=radical)
 
 <!--
