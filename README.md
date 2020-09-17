@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Sanso's Github !](https://github-readme-stats.vercel.app/api?username=S4nso&show_icons=true&theme=radical)
 
 <!--
 **S4nso/S4nso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
